@@ -19,7 +19,9 @@ Brand and mascot artwork for the kubebottle organization. All images in this rep
 | `mascot-alt-bottle.png` | Alternate: non-anthropomorphic tall thin blue bottle with a golden crema top. |
 | `mascot-wild-bath.png` | Playful variant: the mascot taking a bath in an espresso cup, crema as bath water. |
 | `mascot-wild-barista.png` | Playful variant: the mascot as a barista, pouring coffee over the GPU. |
+| `mascot-wild-pourover.png` | Playful variant: the mascot holding a gooseneck kettle, pouring water through a V60 dripper so golden crema drips directly onto a dual-fan GPU. |
 | `mascot-wild-nightshift.png` | Playful variant: the mascot on night shift in the server room, its crema glowing like a lamp. |
+| `pourover-gpu.png` | Non-mascot variant: a Kubernetes-helm gooseneck kettle pouring through a blue V60 dripper straight onto a dual-fan GPU. |
 
 ## Style
 
